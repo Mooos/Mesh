@@ -1,7 +1,7 @@
 {
   "name": "Test_App",
   "version": "1.0.0",
-  "description": "A simple Node.js and Express backend application Redeployed",
+  "description": "A simple Node.js and Express backend application",
   "main": "server/server.js",
   "scripts": {
     "start": "node app/server/start.js",
